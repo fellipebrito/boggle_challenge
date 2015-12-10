@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/github/fellipebrito/boggle_challenge/badges/gpa.svg)](https://codeclimate.com/github/fellipebrito/boggle_challenge)
+
 # Dependences
 
 ```
